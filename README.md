@@ -1,6 +1,6 @@
 <h1>Hey there!</h1>
 <hr>
-<h2>I'm Aryan, I'm a bit of a rookie when it comes to programming, but I sure am having a great time!</h2>
+<h2>I'm a bit of a rookie when it comes to programming, but I sure am having a great time!</h2>
 
 <h3>Now, if I'm a rookie, why do I have this account?樂</h3>
 <p>There's actually many reasons that I have this account. Despite the name, I don't use it to make <i>only</i> discord bots. A lot of my repositories are private since </p>
