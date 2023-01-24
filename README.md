@@ -1,2 +1,6 @@
-<h2>Rust and JS enthusiast</h2>
-<p>that's all you need to know for now</p>
+# JS, Java, Rust, and Svelte enthusiast
+
+that's kinda all you need to know
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMakeDiscordBots&theme=radical)
+![amo_24's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMakeDiscordBots&theme=radical)
