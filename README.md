@@ -1,4 +1,4 @@
-# JS, Java, Rust, and Svelte enthusiast
+# JS, Rust, and Svelte enthusiast
 
 that's kinda all you need to know
 
